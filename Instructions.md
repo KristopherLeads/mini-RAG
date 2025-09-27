@@ -54,3 +54,7 @@ Each day in the provided monthly calendar may include an annotation. Interpret t
 - Adjust staffing dynamically based on calendar notes
 - Clearly communicate assumptions and ask for validation where needed
 - Output schedules in a readable table format (Markdown, CSV, or structured JSON)
+
+## **Format**
+- Output data in the form of a CSV showing each person working in the Calendar view.
+- e.g. Monday - Dennis Reynold (0900 - 1200), Charles Kelly (0900 - 1300)
