@@ -1,0 +1,32 @@
+Date,Day,Status,Needs
+1,Sunday,Open,Standard Working Day
+2,Monday,Open,Standard Working Day
+3,Tuesday,Open,Standard Working Day
+4,Wednesday,Closed,n/a - Closed
+5,Thursday,Open,Standard Working Day
+6,Friday,Closed,n/a - Closed
+7,Saturday,Open,Standard Working Day
+8,Sunday,Open,Standard Working Day
+9,Monday,Open,Standard Working Day
+10,Tuesday,Open,Standard Working Day
+11,Wednesday,Closed,n/a - Closed
+12,Thursday,Open,Standard Working Day
+13,Friday,Open,Standard Working Day
+14,Saturday,Open,Standard Working Day
+15,Sunday,Closed,n/a - Closed
+16,Monday,Open,High Staffing - Load-In for St. Patrick's Day
+17,Tuesday,Open,High Staffing - St. Patrick's Day
+18,Wednesday,Open,High Staffing - Load-Out for St. Patrick's Day
+19,Thursday,Closed,n/a - Closed
+20,Friday,Open,Standard Working Day
+21,Saturday,Open,Standard Working Day
+22,Sunday,Closed,n/a - Closed
+23,Monday,Open,Standard Working Day
+24,Tuesday,Open,Standard Working Day
+25,Wednesday,Open,Standard Working Day
+26,Thursday,Open,Standard Working Day
+27,Friday,Open,Standard Working Day
+28,Saturday,Closed,n/a - Closed
+29,Sunday,Open,Standard Working Day
+30,Monday,Open,Standard Working Day
+31,Tuesday,Open,Standard Working Day

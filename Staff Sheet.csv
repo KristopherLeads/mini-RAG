@@ -1,0 +1,18 @@
+First Name,Last Name,Title,Skillset,Restrictions,Level,Monday,Tuesday,Wednesday,Thursday,Friday,Saturday,Sunday
+Dennis,Reynolds,Head of Marketing,"Bartender, Public Relations",Margaret McPoyle,L3,0600 - 1500,0600 - 1500,Unavailable,0600 - 1500,Unavailable,0600 - 1500,0600 - 1500
+Artemis,Dubois,Senior Marketing Manager,"Public Relations, Waiter",,L1,Unavailable,0600 - 1500,0600 - 1500,Unavailable,0600 - 1500,0600 - 1500,Unavailable
+Deandra,Reynolds,Senior Avian Specialist,"Bartender, Waiter",Pepper Jack,L1,Unavailable,0600 - 1500,Unavailable,Unavailable,Unavailable,Unavailable,Unavailable
+Charles,Kelly,Head of Janitorial Services,"Bartender, Waiter, Janitorial","Doyle McPoyle
+Liam McPoyle
+Ryan McPoyle",L3,0600 - 1200,0600 - 1200,0600 - 1200,0600 - 1200,0600 - 1200,0600 - 1200,0600 - 1200
+Ronald,McDonald,Head of Security,"Security, Waiter",,L3,0600 - 1500,0600 - 1500,0600 - 1500,0600 - 1500,0600 - 1500,0600 - 1500,Unavailable
+Matthew,Mara,Junior Security Intern,Security,,L1,Unavailable,Unavailable,0600 - 1500,0600 - 1500,0600 - 1500,0600 - 1500,0600 - 1500
+Jack,Kelly,Staff Counsel,Janitorial,Charles Kelly,L3,Unavailable,0600 - 1500,Unavailable,0600 - 1500,Unavailable,Unavailable,0600 - 1500
+Liam,McPoyle,General Contractor,"Security, Waiter","Ryan McPoyle
+Charles Kelly",L1,0600 - 1500,0600 - 1500,0600 - 1500,Unavailable,Unavailable,Unavailable,Unavailable
+Ryan,McPoyle,General Contractor,"Security, Waiter","Liam McPoyle
+Charles Kelly",L1,Unavailable,Unavailable,Unavailable,Unavailable,Unavailable,0600 - 1500,0600 - 1500
+Margaret,McPoyle,General Contractor,Waiter,"Dennis Reynolds
+Charles Kelly",L1,Unavailable,Unavailable,0600 - 1500,0600 - 1500,0600 - 1500,Unavailable,Unavailable
+Doyle,McPoyle,General Contractor,Waiter,Charles Kelly,L1,Unavailable,Unavailable,Unavailable,Unavailable,Unavailable,0600 - 1500,0600 - 1500
+Pepper,Jack,Accounts Recievable Manager,Security,Deandra Reynolds,L3,0600 - 1300,0600 - 1300,0600 - 1300,Unavailable,Unavailable,Unavailable,Unavailable
